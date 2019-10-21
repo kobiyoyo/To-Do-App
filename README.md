@@ -22,7 +22,7 @@ $ git clone https://github.com/kobiyoyo/To-Do-App.git
 > navigate ```cd ``` into the cloned directory
 
 ```sh
-$ cd Enumerable-Methods
+$ cd To-Do-App
 ```
 ## Contributors
 [Adama Chubiyojo Desmond](https://github.com/kobiyoyo)
